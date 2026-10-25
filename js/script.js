@@ -19,7 +19,7 @@
     angry:   "We're sorry things went badly. We'll work on making it right.",
     sad:     "Sorry to hear that. Your comment will help us do better.",
     neutral: "Thanks for being honest. We'll keep improving.",
-    happy:   "Glad you're enjoying Zitto!",
+    happy:   "Glad you're enjoying Gizki!",
     love:    "That means a lot to us. Thank you for the love!"
   };
 

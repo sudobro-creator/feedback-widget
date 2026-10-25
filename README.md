@@ -1,4 +1,4 @@
-# Zitto Feedback Widget
+# Gizki Feedback Widget
 
 An interactive feedback card built with plain HTML, CSS and JavaScript. No build step.
 
